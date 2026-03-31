@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="container_width">360dp</dimen>
+    <dimen name="container_height">730dp</dimen>
+    <dimen name="header_height">70dp</dimen>
+    <dimen name="button_height">66dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="small_icon_size">16dp</dimen>
+    <dimen name="container_top_offset">50dp</dimen>
+    <dimen name="container_top_padding">8dp</dimen>
+    <dimen name="container_side_padding">16dp</dimen>
+    <dimen name="title_start_padding">16dp</dimen>
+    <dimen name="content_top_spacer">20dp</dimen>
+    <dimen name="button_spacing">10dp</dimen>
+    <dimen name="icon_text_spacing">12dp</dimen>
+    <dimen name="container_corner_radius">16dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="text_size_title">32sp</dimen>
+    <dimen name="text_size_title_medium">24sp</dimen>
+    <dimen name="text_size_medium_large">18sp</dimen>
+    <dimen name="text_size_button">22sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_caption">12sp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_extra_large">24dp</dimen>
+    <dimen name="padding_huge">32dp</dimen>
+    <dimen name="elevation_small">2dp</dimen>
+    <dimen name="elevation_medium">4dp</dimen>
+    <dimen name="elevation_large">8dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="divider_thickness">2dp</dimen>
+    <dimen name="icon_button_size">48dp</dimen>
+    <dimen name="large_icon_size">64dp</dimen>
+    <dimen name="medium_icon_size">48dp</dimen>
+
+    <dimen name="search_field_height">52dp</dimen>
+    <dimen name="search_field_inner_padding">8dp</dimen>
+    <dimen name="search_icon_size">20dp</dimen>
+    <dimen name="search_icon_spacing">8dp</dimen>
+    <dimen name="search_text_size">16sp</dimen>
+    <dimen name="clear_button_size">32dp</dimen>
+    <dimen name="clear_icon_size">16dp</dimen>
+    <dimen name="field_corner_radius">8dp</dimen>
+    <dimen name="field_shadow_elevation">1dp</dimen>
+
+    <dimen name="error_image_size">180dp</dimen>
+    <dimen name="empty_results_text_size">20sp</dimen>
+    <dimen name="image_text_spacing">32dp</dimen>
+
+    <dimen name="track_icon_size">48dp</dimen>
+    <dimen name="track_name_text_size">16sp</dimen>
+    <dimen name="track_artist_text_size">14sp</dimen>
+    <dimen name="track_time_text_size">14sp</dimen>
+    <dimen name="track_item_spacing">16dp</dimen>
+    <dimen name="track_time_start_padding">8dp</dimen>
+    <dimen name="track_vertical_padding">8dp</dimen>
+
+    <dimen name="error_text_size">16sp</dimen>
+    <dimen name="error_detail_text_size">14sp</dimen>
+    <dimen name="error_elements_spacing">16dp</dimen>
+
+    <dimen name="playlist_image_top_spacing">140dp</dimen>
+    <dimen name="playlist_image_size">100dp</dimen>
+    <dimen name="playlist_form_top_spacing">98dp</dimen>
+    <dimen name="playlist_text_field_width">328dp</dimen>
+    <dimen name="playlist_text_field_height">56dp</dimen>
+    <dimen name="playlist_button_height">48dp</dimen>
+    <dimen name="playlist_button_top_spacing">170dp</dimen>
+    <dimen name="dropdown_menu_width">200dp</dimen>
+
+    <dimen name="fab_size">51dp</dimen>
+    <dimen name="playlist_empty_height">100dp</dimen>
+
+    <dimen name="arrow_forward_width">24dp</dimen>
+    <dimen name="arrow_forward_height">30dp</dimen>
+    <dimen name="arrow_forward_small_width">8dp</dimen>
+    <dimen name="arrow_forward_small_height">14dp</dimen>
+</resources>
